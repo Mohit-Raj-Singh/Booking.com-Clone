@@ -6,9 +6,6 @@ const Div  = styled.div`
 width:90%;
 margin:0 auto;
 button{
-   
-   
-    
     border:0;
 }
 
